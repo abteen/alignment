@@ -1,0 +1,4 @@
+Model:	xlmr_base_6	Lang/Split:	bzd_dev	aer:	76.45	prec:	43.7 recall:	16.1	n	302	F_measure	0.23550401427297057
+Model:	xlmr_base_6	Lang/Split:	shp_dev	aer:	70.74	prec:	56.0 recall:	19.8	n	334	F_measure	0.29264475743348983
+Model:	xlmr_base_6	Lang/Split:	gn_dev	aer:	70.83	prec:	45.8 recall:	21.4	n	336	F_measure	0.29166666666666663
+Model:	xlmr_base_6	Lang/Split:	quy_dev	aer:	69.44	prec:	51.8 recall:	21.7	n	280	F_measure	0.3055848261327714

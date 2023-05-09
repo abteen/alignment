@@ -1,0 +1,12 @@
+#Experiment Settings
+output_directory: ???
+log_directory: ???
+use_wandb: True
+experiment_name: ???
+seed: 42
+data_seed: 42 #this should not be changed across experiments since we want the data to remain the same across models
+target_language: ???
+check_git_status: True
+check_resume_training: False
+check_already_trained: True
+validation_split_ratio: 0.1

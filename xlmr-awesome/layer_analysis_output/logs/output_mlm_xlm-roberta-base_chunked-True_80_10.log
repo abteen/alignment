@@ -1,0 +1,8 @@
+Model:	mlm_xlm-roberta-base_chunked-True_80_10	Lang/Split:	bzd_dev	aer:	73.24	prec:	43.6 recall:	19.3	n	362	F_measure	0.26756985605419137
+Model:	mlm_xlm-roberta-base_chunked-True_80_10	Lang/Split:	shp_dev	aer:	70.91	prec:	51.1 recall:	20.3	n	376	F_measure	0.2909090909090909
+Model:	mlm_xlm-roberta-base_chunked-True_80_10	Lang/Split:	gn_dev	aer:	59.81	prec:	63.3 recall:	29.4	n	335	F_measure	0.4018957345971564
+Model:	mlm_xlm-roberta-base_chunked-True_80_10	Lang/Split:	quy_dev	aer:	42.36	prec:	74.3 recall:	47.1	n	424	F_measure	0.576395242451967
+Model:	mlm_xlm-roberta-base_chunked-True_80_10	Lang/Split:	bzd_test	aer:	75.84	prec:	38.6 recall:	17.6	n	440	F_measure	0.2416488983653163
+Model:	mlm_xlm-roberta-base_chunked-True_80_10	Lang/Split:	shp_test	aer:	67.28	prec:	51.7 recall:	23.9	n	499	F_measure	0.32720355104629045
+Model:	mlm_xlm-roberta-base_chunked-True_80_10	Lang/Split:	gn_test	aer:	65.65	prec:	58.7 recall:	24.3	n	366	F_measure	0.34345047923322686
+Model:	mlm_xlm-roberta-base_chunked-True_80_10	Lang/Split:	quy_test	aer:	52.39	prec:	68.3 recall:	36.5	n	467	F_measure	0.4761194029850746

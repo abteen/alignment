@@ -1,0 +1,4 @@
+Model:	mlm_tgt_wiki_80	Lang/Split:	gn_dev	aer:	36.51	prec:	77.8 recall:	53.6	n	496	F_measure	0.6348684210526315
+Model:	mlm_tgt_wiki_80	Lang/Split:	quy_dev	aer:	40.32	prec:	73.5 recall:	50.2	n	457	F_measure	0.5968028419182948
+Model:	mlm_tgt_wiki_80	Lang/Split:	gn_test	aer:	40.00	prec:	76.3 recall:	49.4	n	574	F_measure	0.6000000000000001
+Model:	mlm_tgt_wiki_80	Lang/Split:	quy_test	aer:	46.00	prec:	70.8 recall:	43.6	n	538	F_measure	0.5400425230333097

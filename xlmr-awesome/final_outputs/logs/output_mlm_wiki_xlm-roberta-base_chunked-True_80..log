@@ -1,0 +1,4 @@
+Model:	mlm_wiki_xlm-roberta-base_chunked-True_80.	Lang/Split:	gn_dev	aer:	48.80	prec:	76.5 recall:	38.5	n	362	F_measure	0.512014787430684
+Model:	mlm_wiki_xlm-roberta-base_chunked-True_80.	Lang/Split:	quy_dev	aer:	42.31	prec:	79.9 recall:	45.1	n	378	F_measure	0.5768863419293219
+Model:	mlm_wiki_xlm-roberta-base_chunked-True_80.	Lang/Split:	gn_test	aer:	57.27	prec:	66.4 recall:	31.5	n	420	F_measure	0.42725880551301687
+Model:	mlm_wiki_xlm-roberta-base_chunked-True_80.	Lang/Split:	quy_test	aer:	48.83	prec:	75.0 recall:	38.8	n	452	F_measure	0.5116981132075472

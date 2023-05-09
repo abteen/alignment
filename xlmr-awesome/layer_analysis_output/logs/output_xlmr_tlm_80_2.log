@@ -1,0 +1,8 @@
+Model:	xlmr_tlm_80_2	Lang/Split:	bzd_dev	aer:	76.00	prec:	59.7 recall:	15.0	n	206	F_measure	0.24
+Model:	xlmr_tlm_80_2	Lang/Split:	shp_dev	aer:	76.08	prec:	79.2 recall:	14.1	n	168	F_measure	0.23920863309352522
+Model:	xlmr_tlm_80_2	Lang/Split:	gn_dev	aer:	77.91	prec:	67.9 recall:	13.2	n	140	F_measure	0.22093023255813954
+Model:	xlmr_tlm_80_2	Lang/Split:	quy_dev	aer:	70.09	prec:	86.4 recall:	18.1	n	140	F_measure	0.29913473423980225
+Model:	xlmr_tlm_80_2	Lang/Split:	bzd_test	aer:	81.17	prec:	48.5 recall:	11.7	n	233	F_measure	0.18833333333333332
+Model:	xlmr_tlm_80_2	Lang/Split:	shp_test	aer:	68.74	prec:	77.6 recall:	19.6	n	272	F_measure	0.3125925925925926
+Model:	xlmr_tlm_80_2	Lang/Split:	gn_test	aer:	78.21	prec:	62.2 recall:	13.2	n	188	F_measure	0.21787709497206706
+Model:	xlmr_tlm_80_2	Lang/Split:	quy_test	aer:	76.05	prec:	70.4 recall:	14.4	n	179	F_measure	0.23954372623574144

@@ -1,0 +1,8 @@
+Model:	tlm_80	Lang/Split:	bzd_dev	aer:	54.25	prec:	69.1 recall:	34.2	n	405	F_measure	0.457516339869281
+Model:	tlm_80	Lang/Split:	shp_dev	aer:	62.10	prec:	72.7 recall:	25.6	n	333	F_measure	0.3790133124510571
+Model:	tlm_80	Lang/Split:	gn_dev	aer:	34.62	prec:	82.1 recall:	54.3	n	476	F_measure	0.6538461538461537
+Model:	tlm_80	Lang/Split:	bzd_test	aer:	58.43	prec:	62.1 recall:	31.2	n	486	F_measure	0.41569167240192706
+Model:	tlm_80	Lang/Split:	gn_test	aer:	43.10	prec:	76.3 recall:	45.4	n	527	F_measure	0.5690021231422505
+Model:	tlm_80	Lang/Split:	quy_dev	aer:	30.38	prec:	83.0 recall:	59.9	n	483	F_measure	0.6961805555555555
+Model:	tlm_80	Lang/Split:	quy_test	aer:	36.96	prec:	79.0 recall:	52.5	n	580	F_measure	0.6304198210598762
+Model:	tlm_80	Lang/Split:	shp_test	aer:	52.34	prec:	79.4 recall:	34.0	n	462	F_measure	0.4766233766233766

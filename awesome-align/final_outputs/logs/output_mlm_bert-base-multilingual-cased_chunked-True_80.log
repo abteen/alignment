@@ -1,0 +1,8 @@
+Model:	mlm_bert-base-multilingual-cased_chunked-True_80	Lang/Split:	bzd_dev	aer:	64.26	prec:	51.1 recall:	27.5	n	440	F_measure	0.3574265289912629
+Model:	mlm_bert-base-multilingual-cased_chunked-True_80	Lang/Split:	shp_dev	aer:	66.44	prec:	59.2 recall:	23.4	n	373	F_measure	0.33561123766135154
+Model:	mlm_bert-base-multilingual-cased_chunked-True_80	Lang/Split:	gn_dev	aer:	43.29	prec:	72.3 recall:	46.7	n	465	F_measure	0.5670886075949367
+Model:	mlm_bert-base-multilingual-cased_chunked-True_80	Lang/Split:	quy_dev	aer:	39.10	prec:	76.6 recall:	50.5	n	441	F_measure	0.6090090090090091
+Model:	mlm_bert-base-multilingual-cased_chunked-True_80	Lang/Split:	bzd_test	aer:	68.95	prec:	42.7 recall:	24.4	n	553	F_measure	0.31052631578947365
+Model:	mlm_bert-base-multilingual-cased_chunked-True_80	Lang/Split:	gn_test	aer:	49.68	prec:	68.6 recall:	39.7	n	513	F_measure	0.503216583273767
+Model:	mlm_bert-base-multilingual-cased_chunked-True_80	Lang/Split:	quy_test	aer:	46.59	prec:	69.1 recall:	43.5	n	550	F_measure	0.534082923401265
+Model:	mlm_bert-base-multilingual-cased_chunked-True_80	Lang/Split:	shp_test	aer:	58.17	prec:	66.0 recall:	30.6	n	500	F_measure	0.41825095057034223

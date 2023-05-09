@@ -1,0 +1,7 @@
+Model:	xlm-roberta-base-baseline	Lang/Split:	bzd_dev	aer:	76.29	prec:	54.6 recall:	15.1	n	227	F_measure	0.23709369024856597
+Model:	xlm-roberta-base-baseline	Lang/Split:	shp_dev	aer:	73.96	prec:	64.4 recall:	16.3	n	239	F_measure	0.2603550295857988
+Model:	xlm-roberta-base-baseline	Lang/Split:	gn_dev	aer:	71.85	prec:	56.5 recall:	18.8	n	239	F_measure	0.28154327424400416
+Model:	xlm-roberta-base-baseline	Lang/Split:	quy_dev	aer:	71.53	prec:	58.3 recall:	18.8	n	216	F_measure	0.28474576271186436
+Model:	xlm-roberta-base-baseline	Lang/Split:	bzd_test	aer:	80.15	prec:	48.0 recall:	12.5	n	252	F_measure	0.1985233798195242
+Model:	xlm-roberta-base-baseline	Lang/Split:	gn_test	aer:	73.11	prec:	48.4 recall:	18.6	n	341	F_measure	0.26894865525672373
+Model:	xlm-roberta-base-baseline	Lang/Split:	quy_test	aer:	75.24	prec:	49.7 recall:	16.5	n	290	F_measure	0.24763542562338778

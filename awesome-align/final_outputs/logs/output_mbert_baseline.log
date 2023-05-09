@@ -1,0 +1,7 @@
+Model:	mbert_baseline	Lang/Split:	bzd_dev	aer:	65.38	prec:	47.2 recall:	27.4	n	475	F_measure	0.34621329211746527
+Model:	mbert_baseline	Lang/Split:	shp_dev	aer:	62.80	prec:	59.7 recall:	27.0	n	427	F_measure	0.37199124726477023
+Model:	mbert_baseline	Lang/Split:	gn_dev	aer:	58.51	prec:	53.1 recall:	34.0	n	461	F_measure	0.4149026248941575
+Model:	mbert_baseline	Lang/Split:	quy_dev	aer:	63.98	prec:	50.1 recall:	28.1	n	375	F_measure	0.3601532567049809
+Model:	mbert_baseline	Lang/Split:	bzd_test	aer:	70.03	prec:	41.8 recall:	23.4	n	541	F_measure	0.29973474801061006
+Model:	mbert_baseline	Lang/Split:	gn_test	aer:	63.13	prec:	50.6 recall:	29.0	n	508	F_measure	0.36872309899569583
+Model:	mbert_baseline	Lang/Split:	quy_test	aer:	67.02	prec:	49.4 recall:	24.7	n	437	F_measure	0.3297709923664123

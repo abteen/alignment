@@ -1,0 +1,14 @@
+#Training Settings
+expected_batch_size: 32
+visible_devices: "0"
+n_gpu: 1
+training_arguments:
+  per_device_train_batch_size: 32
+  gradient_accumulation_steps: 1
+  learning_rate: 2.0e-5
+  num_train_epochs: 5
+  evaluation_strategy: 'no'
+  warmup_ratio: .01
+  logging_steps: 25
+  save_steps: 7500
+  save_total_limit: 1

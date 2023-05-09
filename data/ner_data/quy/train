@@ -1,0 +1,631 @@
+qu:San	B-LOC
+qu:Miguel	I-LOC
+qu:de	I-LOC
+qu:la	I-LOC
+qu:Frontera	I-LOC
+
+qu:Carl	B-PER
+qu:von	I-PER
+qu:Linné	I-PER
+
+qu:===	O
+qu:Rimay	B-ORG
+qu:yachaq	I-ORG
+qu:ruphay	I-ORG
+qu:mit'a	I-ORG
+qu:yachay	I-ORG
+qu:wasi	I-ORG
+qu:nisqap	O
+qu:liwruchasqan	O
+qu:willakuykuna	O
+qu:qillqakunapas	O
+qu:===	O
+
+qu:Piluta	B-ORG
+qu:Hayt'ay	I-ORG
+qu:Pachantin	I-ORG
+qu:Kupa	I-ORG
+qu:1970	I-ORG
+
+qu:Carl	B-PER
+qu:von	I-PER
+qu:Linné	I-PER
+
+qu:Piluta	B-ORG
+qu:Hayt'ay	I-ORG
+qu:Pachantin	I-ORG
+qu:Kupa	I-ORG
+qu:1990	I-ORG
+qu:Italya	B-LOC
+qu:''	O
+qu:'Semifinal	O
+qu:''	O
+qu:'52	O
+
+qu:Alessandro	B-PER
+qu:Del	I-PER
+qu:Piero	I-PER
+qu:-	O
+qu:8	O
+qu:.	O
+
+qu:'	O
+qu:''	O
+qu:Climinti	B-PER
+qu:II	I-PER
+qu:''	O
+qu:'	O
+
+qu:Kamasqa	O
+qu:,	O
+qu:Alan	B-PER
+qu:García	I-PER
+qu:Umalliqmi	O
+qu:.	O
+
+qu:'	O
+qu:''	O
+qu:Antonio	B-PER
+qu:Guzmán	I-PER
+qu:Blanco	I-PER
+qu:''	O
+qu:'	O
+
+qu:Piluta	B-ORG
+qu:Hayt'ay	I-ORG
+qu:Pachantin	I-ORG
+qu:Kupa	I-ORG
+qu:2014	I-ORG
+
+qu:'	O
+qu:''	O
+qu:Cristiano	B-PER
+qu:Ronaldo	I-PER
+qu:''	O
+qu:'	O
+
+qu:Uma	B-LOC
+qu:llaqtanqa	I-LOC
+qu:Victoria	B-ORG
+qu:de	I-ORG
+qu:Durango	I-ORG
+qu:llaqtam	O
+qu:.	O
+
+qu:Wolfgang	B-PER
+qu:Amadeus	I-PER
+qu:Mozart	I-PER
+
+qu:'	O
+qu:''	O
+qu:Cirilo	B-PER
+qu:Rivarola	I-PER
+qu:''	O
+qu:'	O
+
+qu:Tukumi	B-ORG
+qu:chuntukuna	I-ORG
+qu:,	O
+qu:Lampalliqi	B-LOC
+qu:pruwinsya	I-LOC
+
+qu:North	B-LOC
+qu:Yorkshire	I-LOC
+qu:,	O
+qu:Yorkshire	B-ORG
+qu:Dales	I-ORG
+qu:mama	I-ORG
+qu:llaqta	I-ORG
+qu:parki	I-ORG
+
+qu:Antonio	B-PER
+qu:José	I-PER
+qu:de	I-PER
+qu:Sucre	I-PER
+
+qu:Chopin	B-PER
+qu:,	I-PER
+qu:Frédéric	I-PER
+qu:(	O
+qu:1810-1849	O
+qu:)	O
+
+qu:Piluta	B-ORG
+qu:Hayt'ay	I-ORG
+qu:Pachantin	I-ORG
+qu:Kupa	I-ORG
+qu:1994	I-ORG
+
+qu:'	O
+qu:''	O
+qu:Taro	B-PER
+qu:Aso	I-PER
+qu:''	O
+qu:'	O
+
+qu:'	O
+qu:''	O
+qu:Paolo	B-PER
+qu:Rossi	I-PER
+qu:''	O
+qu:'	O
+
+qu:Piluta	B-ORG
+qu:Hayt'ay	I-ORG
+qu:Pachantin	I-ORG
+qu:Kupa	I-ORG
+qu:1958	I-ORG
+
+qu:Sumaku	B-ORG
+qu:Napu	I-ORG
+qu:-	I-ORG
+qu:Galeras	I-ORG
+qu:mama	I-ORG
+qu:llaqta	I-ORG
+qu:parki	I-ORG
+
+qu:Piluta	B-ORG
+qu:Hayt'ay	I-ORG
+qu:Pachantin	I-ORG
+qu:Kupa	I-ORG
+qu:2006	I-ORG
+
+qu:'	O
+qu:''	O
+qu:Ukayali	B-LOC
+qu:suyu	I-LOC
+qu:''	O
+qu:'	O
+
+qu:'	O
+qu:''	O
+qu:Ramón	B-PER
+qu:Castilla	I-PER
+qu:''	O
+qu:'	O
+
+qu:Cartagena	B-LOC
+qu:(	I-LOC
+qu:Kulumbya	I-LOC
+qu:)	I-LOC
+
+qu:PUSAPUNA	O
+qu:Harvard	B-ORG
+qu:Yachay	I-ORG
+qu:Suntur	I-ORG
+
+qu:Covent	O
+qu:Garden	O
+qu:Theatre]]	O
+qu:,	O
+qu:London	B-LOC
+
+qu:PUSAPUNA	O
+qu:Stanford	B-ORG
+qu:Yachay	I-ORG
+qu:Suntur	I-ORG
+
+qu:Hukllachasqa	B-LOC
+qu:Amirika	I-LOC
+qu:Suyukuna	I-LOC
+
+qu:Xalapa-Enríquez	B-LOC
+qu:,	O
+qu:Veracruz	B-LOC
+qu:.	O
+
+qu:Podocarpus	B-ORG
+qu:mama	I-ORG
+qu:llaqta	I-ORG
+qu:parki	I-ORG
+
+qu:Gerard	B-PER
+qu:Piqué	I-PER
+qu:-	O
+qu:4	O
+qu:.	O
+
+qu:Paspanshu	B-LOC
+qu:''Lipaugus	O
+qu:vociferans	O
+qu:''	O
+
+qu:PUSAPUNA	O
+qu:Yale	B-ORG
+qu:Yachay	I-ORG
+qu:Suntur	I-ORG
+
+qu:Piluta	B-ORG
+qu:Hayt'ay	I-ORG
+qu:Pachantin	I-ORG
+qu:Kupa	I-ORG
+qu:2006	I-ORG
+
+qu:Laram	B-ORG
+qu:Q'awa	I-ORG
+qu:(	I-ORG
+qu:Paqaqi	I-ORG
+qu:)	I-ORG
+
+qu:'	O
+qu:''	O
+qu:Ronaldo	B-PER
+qu:''	O
+qu:'	O
+
+qu:,	O
+qu:Frankfurt	B-LOC
+qu:am	I-LOC
+qu:Main	I-LOC
+
+qu:'	O
+qu:''	O
+qu:Gerd	B-PER
+qu:Müller	I-PER
+qu:''	O
+qu:'	O
+
+qu:'	O
+qu:''	O
+qu:Huwan	B-PER
+qu:XV	I-PER
+qu:''	O
+qu:'	O
+
+qu:Mario	B-PER
+qu:Kempes	I-PER
+qu:-	O
+qu:11	O
+qu:.	O
+
+qu:'	O
+qu:''	O
+qu:Climinti	B-PER
+qu:IV	I-PER
+qu:''	O
+qu:'	O
+
+qu:PUSAPUNA	O
+qu:Montero	B-LOC
+qu:(	I-LOC
+qu:Buliwya	I-LOC
+qu:)	I-LOC
+
+qu:6	O
+qu:GP	B-LOC
+qu:de	I-LOC
+qu:Mónaco	I-LOC
+qu:(	O
+qu:1987-1989-1990-1991-1992-1993	O
+qu:)	O
+
+qu:'	O
+qu:''	O
+qu:Kaká	B-PER
+qu:''	O
+qu:'	O
+
+qu:Piluta	B-ORG
+qu:Hayt'ay	I-ORG
+qu:Pachantin	I-ORG
+qu:Kupa	I-ORG
+qu:1974	I-ORG
+
+qu:Johann	B-PER
+qu:Sebastian	I-PER
+qu:Bach	I-PER
+
+qu:Chilipi	B-ORG
+qu:amachasqa	I-ORG
+qu:sallqa	I-ORG
+qu:suyukuna	I-ORG
+
+qu:Toribio	B-PER
+qu:Rodríguez	I-PER
+qu:de	I-PER
+qu:Mendoza	I-PER
+
+qu:Francisco	B-PER
+qu:Morazán	I-PER
+qu:Quesada	I-PER
+qu:.	O
+
+qu:San	B-LOC
+qu:Miguel	I-LOC
+qu:de	I-LOC
+qu:los	I-LOC
+qu:Bancos	I-LOC
+
+qu:PUSAPUNA	O
+qu:San	B-LOC
+qu:Huwan	I-LOC
+qu:distritu	I-LOC
+qu:(	I-LOC
+qu:Lukana	I-LOC
+qu:)	I-LOC
+
+qu:pusapuna	O
+qu:Hipólito	B-PER
+qu:Ruiz	I-PER
+qu:López	I-PER
+
+qu:Piluta	B-ORG
+qu:Hayt'ay	I-ORG
+qu:Pachantin	I-ORG
+qu:Kupa	I-ORG
+qu:1998	I-ORG
+
+qu:Turpiña	B-LOC
+qu:''Fulica	O
+qu:gigantea	O
+qu:''	O
+
+qu:Kambuya	B-LOC
+qu:Qhapaq	I-LOC
+qu:suyu	I-LOC
+qu:(	O
+qu:Ristauradu	O
+qu:,	O
+qu:1993-	O
+qu:)	O
+qu:===	O
+
+qu:Wantar	B-LOC
+qu:Chawin	I-LOC
+qu:(	O
+qu:Wantar	B-LOC
+qu:Chawin	I-LOC
+qu:distritupi	I-LOC
+qu:)	O
+
+qu:Waylla	B-LOC
+qu:urpi	I-LOC
+qu:''Zenaida	O
+qu:auriculata	O
+qu:''	O
+
+qu:Inka	B-ORG
+qu:ñan	I-ORG
+qu:,	O
+qu:huknin	O
+qu:tiqsimuyuntinpi	O
+qu:riqsisqa	O
+qu:“trekking”	O
+
+qu:Pallanchikpa	B-ORG
+qu:basilikan	I-ORG
+qu:(	I-ORG
+qu:Qupaqhawanapi	I-ORG
+qu:)	I-ORG
+
+qu:Titiqaqa	B-LOC
+qu:mama	I-LOC
+qu:llaqta	I-LOC
+qu:risirwa	I-LOC
+
+qu:Santa	B-LOC
+qu:Elena	I-LOC
+qu:(	I-LOC
+qu:Ikwadur	I-LOC
+qu:)	I-LOC
+qu:;	O
+
+qu:Sankay	B-ORG
+qu:mama	I-ORG
+qu:llaqta	I-ORG
+qu:parki	I-ORG
+
+qu:T'uru	B-ORG
+qu:T'uru	B-ORG
+qu:mamallaqta	I-ORG
+qu:parki	I-ORG
+
+qu:Rimaq	B-LOC
+qu:mayu	I-LOC
+qu:(	O
+qu:Lurigancho-Chosicapi	O
+qu:)	O
+
+qu:Madidi	B-ORG
+qu:mamallaqta	I-ORG
+qu:parkipi	I-ORG
+qu:(	O
+qu:Rurrenabaque	B-LOC
+qu:ñiqpi	O
+qu:)	O
+
+qu:Marilyn	B-PER
+qu:Monroe	I-PER
+
+qu:PUSAPUNA	O
+qu:Suntur	B-ORG
+qu:(	I-ORG
+qu:mawk'a	I-ORG
+qu:llaqta	I-ORG
+qu:)	I-ORG
+
+qu:San	B-LOC
+qu:Vicente	I-LOC
+qu:Kañitipi	I-LOC
+qu:distritu	I-LOC
+
+qu:'	O
+qu:''	O
+qu:Binidiktu	B-PER
+qu:XII	I-PER
+qu:''	O
+qu:'	O
+
+qu:Urin	B-LOC
+qu:Awya	I-LOC
+qu:Yalapi	I-LOC
+qu:Amarumayu	B-LOC
+qu:sach'a-sach'a	I-LOC
+qu:suyupim	I-LOC
+qu:kawsan	O
+qu:.	O
+
+qu:PUSAPUNA	O
+qu:Wankani	B-LOC
+qu:distritu	I-LOC
+qu:(	I-LOC
+qu:Hunin	I-LOC
+qu:)	I-LOC
+
+qu:Wasqar	B-LOC
+qu:q'inti	I-LOC
+qu:''Patagona	O
+qu:gigas	O
+qu:''	O
+
+qu:Mayupura	B-LOC
+qu:(	I-LOC
+qu:Tarija	I-LOC
+qu:)	I-LOC
+
+qu:Chururu	B-LOC
+qu:''Phoenicoparrus	O
+qu:andinus	O
+qu:''	O
+
+qu:César	B-PER
+qu:Vallejo	I-PER
+qu:(	O
+qu:1892-1938	O
+qu:)	O
+
+qu:-	O
+qu:''	O
+qu:Carlos	B-PER
+qu:Blanco	I-PER
+qu:Galindo	I-PER
+qu:''	O
+qu:'	O
+
+qu:PUSAPUNA	O
+qu:Paqcha	B-LOC
+qu:distritu	I-LOC
+qu:(	I-LOC
+qu:Chuta	I-LOC
+qu:)	I-LOC
+
+qu:Universidade	B-ORG
+qu:Federal	I-ORG
+qu:de	I-ORG
+qu:Minas	I-ORG
+qu:Gerais	I-ORG
+
+qu:Sawanqaya	B-LOC
+qu:(	O
+qu:5.976	O
+qu:m	O
+qu:)	O
+
+qu:José	B-PER
+qu:María	I-PER
+qu:Achá	I-PER
+qu:Valiente	I-PER
+
+qu:PUSAPUNA	O
+qu:Chuqi	B-LOC
+qu:Uta	I-LOC
+qu:munisipyu	I-LOC
+
+qu:Inka	B-ORG
+qu:Garcilaso	I-ORG
+qu:de	I-ORG
+qu:la	I-ORG
+qu:Vega	I-ORG
+
+qu:'	O
+qu:''	O
+qu:Junichiro	B-ORG
+qu:Koizumi	I-ORG
+qu:''	O
+qu:'	O
+
+qu:Chilipi	B-ORG
+qu:amachasqa	I-ORG
+qu:sallqa	I-ORG
+qu:suyukuna	I-ORG
+
+qu:Chini	B-LOC
+qu:''	O
+qu:(	O
+qu:Urera	O
+qu:)	O
+qu:''	O
+
+qu:'	O
+qu:''	O
+qu:Li	B-PER
+qu:Peng	I-PER
+qu:''	O
+qu:'	O
+
+qu:Usqhullu	B-LOC
+qu:''Felis	O
+qu:colocolo	O
+qu:''	O
+
+qu:PUSAPUNA	O
+qu:Pachakutiq	B-PER
+qu:Inka	I-PER
+qu:Yupanki	I-PER
+
+qu:PUSAPUNA	O
+qu:Wankapampa	B-LOC
+qu:mayu	I-LOC
+qu:(	I-LOC
+qu:Pasqu	I-LOC
+qu:)	I-LOC
+
+qu:**	O
+qu:Wallqanqa	B-ORG
+qu:''	O
+qu:(	O
+qu:escudo	O
+qu:)	O
+qu:''	O
+
+qu:Kunti	B-LOC
+qu:Walla	I-LOC
+qu:(	I-LOC
+qu:Ikwadur	I-LOC
+qu:)	I-LOC
+
+qu:Piluta	B-ORG
+qu:Hayt'ay	I-ORG
+qu:Pachantin	I-ORG
+qu:Kupa	I-ORG
+qu:2006	I-ORG
+
+qu:P'utuqsi	B-LOC
+qu:suyu	I-LOC
+qu:,	O
+qu:Chinchay	B-LOC
+qu:Lipis	I-LOC
+qu:pruwinsya	I-LOC
+
+qu:'	O
+qu:''	O
+qu:Petar	B-PER
+qu:Stoyanov	I-PER
+qu:''	O
+qu:'	O
+
+qu:Luritu	B-LOC
+qu:suyu	I-LOC
+qu:,	O
+qu:Maynas	B-LOC
+qu:pruwinsya	I-LOC
+
+qu:Qaqa	B-LOC
+qu:paluma	I-LOC
+qu:''	O
+qu:(	O
+qu:Columba	O
+qu:livia	O
+qu:)	O
+qu:''	O
+

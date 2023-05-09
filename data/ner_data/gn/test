@@ -1,0 +1,952 @@
+gn:Guembe	B-LOC
+
+gn:Springfield	B-LOC
+gn:,	O
+gn:peteĩ	O
+gn:távagua'u	O
+gn:oiko	O
+gn:The	B-ORG
+gn:Simpsons	I-ORG
+gn:''	O
+gn:-pe	O
+gn:.	O
+
+gn:Ary	O
+gn:1757-pe	O
+gn:,	O
+gn:itúva	O
+gn:omano	O
+gn:rire	O
+gn:,	O
+gn:oñepyrũ	O
+gn:oho	O
+gn:pe	O
+gn:Hesuíta	O
+gn:Mbo'ehaópe	O
+gn:táva	O
+gn:Rio	B-LOC
+gn:de	I-LOC
+gn:Janeiro-pe	I-LOC
+gn:.	O
+
+gn:San	B-LOC
+gn:Estanislao	I-LOC
+
+gn:Santa	B-LOC
+gn:Rita	I-LOC
+
+gn:Ojekuaava	O
+gn:avei	O
+gn:hérape	O
+gn:,	O
+gn:Yvykorea	B-LOC
+gn:mante	O
+gn:,	O
+gn:para	O
+gn:Kuarahyreikégua	O
+gn:.	O
+
+gn:Gabriel	B-PER
+gn:Casaccia	I-PER
+gn:-	O
+gn:10	O
+gn:jasyrundy	O
+
+gn:Cháko	B-LOC
+gn:Paraguái	I-LOC
+
+gn:'	O
+gn:''	O
+gn:Belleville	O
+gn:''	O
+gn:'	O
+gn:ha'e	O
+gn:peteĩ	O
+gn:táva	O
+gn:Ontário	O
+gn:Tetãvore	O
+gn:,	O
+gn:Kanatã	B-LOC
+gn:retãme	O
+gn:.	O
+
+gn:Miamar	B-ORG
+
+gn:Ary	O
+gn:1940	O
+gn:ha	O
+gn:1943	O
+gn:jave	O
+gn:ha’eva’ekue	O
+gn:presidente	O
+gn:Asociación	O
+gn:de	O
+gn:Músicos	O
+gn:del	O
+gn:Paraguay-pe	B-LOC
+gn:.	O
+
+gn:REDIRECCIÓN	O
+gn:Ñembohysýi	B-ORG
+gn:ndaha'éiva	I-ORG
+gn:porokuáirehegua	I-ORG
+
+gn:Adriano	O
+gn:Irala	O
+gn:ha’e	O
+gn:kuri	O
+gn:pe	O
+gn:generación	O
+gn:romántica	O
+gn:ha	O
+gn:liberal	O
+gn:,	O
+gn:he’i	O
+gn:haguéicha	O
+gn:Natalicio	B-PER
+gn:González	I-PER
+gn:,	O
+gn:kóva	O
+gn:oike	O
+gn:va’ekue	O
+gn:ñane	O
+gn:retã	O
+gn:Paraguáipe	O
+gn:guerra	O
+gn:rire	O
+gn:“peteĩ	O
+gn:tragedia	O
+gn:intelectual”	O
+gn:ramo	O
+gn:.	O
+
+gn:'	O
+gn:''	O
+gn:Koty	B-ORG
+gn:tesaroryrã	I-ORG
+gn:Rrómagui	I-ORG
+gn:''	O
+gn:'	O
+
+gn:'	O
+gn:''	O
+gn:Felipe	B-PER
+gn:Molas	I-PER
+gn:López	I-PER
+
+gn:Amo	O
+gn:gotyove	O
+gn:oñemarandu	O
+gn:Arquitectura	O
+gn:Universidad	B-ORG
+gn:Nacional	I-ORG
+gn:Asunción	I-ORG
+gn:.	I-ORG
+gn:(	O
+gn:Paraguái	O
+gn:)	O
+gn:pe	O
+gn:.	O
+
+gn:José	B-PER
+gn:Luis	I-PER
+gn:Appleyard	I-PER
+
+gn:Ñaguahẽha	O
+gn:ko’ápe	O
+gn:ojeipuruvéva	O
+gn:ha'e	O
+gn:upe	O
+gn:tape	B-ORG
+gn:guasu	I-ORG
+gn:1	I-ORG
+gn:“Mcal	O
+gn:.	O
+
+gn:Ñaguãhẽ	O
+gn:ko	O
+gn:távape	O
+gn:Ruta	O
+gn:I	O
+gn:Mariscal	O
+gn:Francisco	B-PER
+gn:Solano	I-PER
+gn:López	I-PER
+gn:rupi	O
+gn:.	O
+
+gn:Ko	O
+gn:táva	O
+gn:Sapucai	O
+gn:oñefunda	O
+gn:kuri	O
+gn:karai	O
+gn:Emiliano	B-PER
+gn:González	I-PER
+gn:Navero	I-PER
+gn:tendotáramo	O
+gn:upe	O
+gn:ary	O
+gn:1910-pe	O
+gn:,	O
+gn:ha’e	O
+gn:táva	O
+gn:ferrocarrilera	O
+gn:,	O
+gn:oñemohenda	O
+gn:porãva’ekue	O
+gn:.	O
+
+gn:Ko	O
+gn:táva	O
+gn:opyta	O
+gn:109	O
+gn:km	O
+gn:tavaguasu	O
+gn:Porto	B-LOC
+gn:Alegre	I-LOC
+gn:pegua	O
+gn:,	O
+gn:tetãvore	O
+gn:Rio	O
+gn:Grande	O
+gn:do	O
+gn:Sul	O
+gn:itavusu	O
+gn:.	O
+
+gn:Coronel	B-PER
+gn:Luís	I-PER
+gn:Irrazábal	I-PER
+
+gn:Oĩhína	O
+gn:tetãvore	O
+gn:Rio	B-LOC
+gn:Grande	I-LOC
+gn:do	I-LOC
+gn:Sul-pe	I-LOC
+gn:.	O
+
+gn:Obra	O
+gn:infantil	O
+gn:peteĩha	O
+gn:edición	O
+gn:opresentàva	O
+gn:Josefina	B-PER
+gn:Plá	I-PER
+gn:.	O
+
+gn:Boa	B-LOC
+gn:Vista	I-LOC
+gn:do	I-LOC
+gn:Incra	I-LOC
+
+gn:Alfredo	B-PER
+gn:Seiferheld	I-PER
+gn:.	O
+
+gn:REDIRECCIÓN	O
+gn:Tendota	B-ORG
+gn:Paraguáigua	I-ORG
+
+gn:Avakuaaty	B-ORG
+gn:tetepyguigua	I-ORG
+
+gn:El	O
+gn:diálogo	O
+gn:del	O
+gn:guyraũ	O
+gn:con	O
+gn:el	O
+gn:caballo	O
+gn:,	O
+gn:varias	O
+gn:de	O
+gn:ellas	O
+gn:con	O
+gn:Oscar	B-PER
+gn:Safuán	I-PER
+gn:.	O
+
+gn:Hi’agui	O
+gn:upégui	O
+gn:ohasa	O
+gn:ysyrykuéra	O
+gn:Ñemby	B-LOC
+gn:ha	O
+gn:Mbokajaty	O
+gn:.	O
+
+gn:Geografía	O
+gn:Ilustrada	O
+gn:del	O
+gn:Paraguay	B-LOC
+gn:,	O
+gn:Distribuidora	O
+gn:Arami	O
+gn:SRL	O
+gn:;	O
+gn:2007	O
+gn:.	O
+
+gn:REDIRECCIÓN	O
+gn:Leõ	B-PER
+gn:Tolstói	I-PER
+
+gn:Two	B-ORG
+gn:and	I-ORG
+gn:a	I-ORG
+gn:Half	I-ORG
+gn:Men	I-ORG
+gn:''	O
+gn:(	O
+gn:2003–present	O
+gn:)	O
+
+gn:Augusto	B-PER
+gn:Roa	I-PER
+gn:Bastos	I-PER
+gn:(	O
+gn:1917–2005	O
+gn:)	O
+
+gn:'	O
+gn:''	O
+gn:Alfredo	B-PER
+gn:Stroessner	I-PER
+
+gn:Avei	O
+gn:ojeguereko	O
+gn:aviõ	O
+gn:rembyre	O
+gn:omotenondeva’ekue	O
+gn:upe	O
+gn:accidente	O
+gn:aéreo	O
+gn:vaiete	O
+gn:pya’eterei	O
+gn:ogueraháva	O
+gn:ichupe	O
+gn:,	O
+gn:upérõ	O
+gn:ha’e	O
+gn:Presidente	O
+gn:de	O
+gn:la	O
+gn:República	O
+gn:Paraguáipe	B-LOC
+gn:.	O
+
+gn:Saro	B-PER
+gn:Vera	I-PER
+
+gn:Villa	B-LOC
+gn:Hayes	I-LOC
+
+gn:Michelangelo	B-PER
+
+gn:Efraím	B-PER
+gn:Cardozo	I-PER
+gn:-	O
+gn:16	O
+gn:jasypa	O
+
+gn:REDIRECCIÓN	O
+gn:Kúva	B-LOC
+
+gn:Tetãnguéra	B-ORG
+gn:Joaju	I-ORG
+
+gn:REDIRECCIÓN	O
+gn:Jasy	B-PER
+gn:Jatere	I-PER
+
+gn:José	B-PER
+gn:Félix	I-PER
+gn:Estigarribia	I-PER
+
+gn:Sãso	B-ORG
+gn:Tetera'ãnga	I-ORG
+
+gn:Teju	B-PER
+gn:Jagua	I-PER
+gn::	O
+gn:Hete	O
+gn:ojogua	O
+gn:umi	O
+gn:teju	O
+gn:tuichávape	O
+gn:,	O
+gn:ha	O
+gn:oguereko	O
+gn:pokõi	O
+gn:jagua	O
+gn:akã	O
+gn:.	O
+
+gn:Luis	B-PER
+gn:Alberto	I-PER
+gn:del	I-PER
+gn:Paraná	I-PER
+gn:-	O
+gn:15	O
+gn:jasyporundy	O
+
+gn:Adriano	B-PER
+gn:Irala	I-PER
+gn:-	O
+gn:21	O
+gn:jaspokõi	O
+
+gn:Oñeguahẽ	O
+gn:haguqa	O
+gn:Villa	O
+gn:Florida	O
+gn:Paraguay	B-LOC
+gn:guive	O
+gn:,	O
+gn:ojehova’erã	O
+gn:tape	B-ORG
+gn:guasu	I-ORG
+gn:1	I-ORG
+gn:``	O
+gn:Mcal	O
+gn:.	O
+
+gn:Ko	O
+gn:departamento	O
+gn:Cordillera	B-LOC
+gn:pe	O
+gn:ndahaku	O
+gn:ha	O
+gn:naho’ysãitéi	O
+gn:.	O
+
+gn:Bandera	O
+gn:de	O
+gn:Quebec	O
+gn:Québec	B-LOC
+
+gn:'	O
+gn:''	O
+gn:Elisabeth	O
+gn:``	O
+gn:Lisa	O
+gn:''	O
+gn:Marie	O
+gn:Simpson	O
+gn:''	O
+gn:'	O
+gn:ha'e	O
+gn:peteĩ	O
+gn:tekovegua'u	O
+gn:mitãkuña	O
+gn:tenondegua	O
+gn:ha	O
+gn:herakuã	O
+gn:The	B-ORG
+gn:Simpsonsypegua	I-ORG
+gn:tekoha'ãngaty	O
+gn:ta'angambyrygui	O
+gn:moha'angapyre	O
+gn:,	O
+gn:ojapova	O
+gn:Matt	O
+gn:Groening	O
+gn:.	O
+
+gn:Oho	O
+gn:tetãgui	O
+gn:cuestión	O
+gn:política	O
+gn:rehe	O
+gn:,	O
+gn:iñirũnguéra	O
+gn:ogueraha	O
+gn:conspiración	O
+gn:oitýva	O
+gn:ichupe	O
+gn:gobierno	O
+gn:choguy	O
+gn:omotnenondéva	O
+gn:Eusebio	B-PER
+gn:Ayala	I-PER
+gn:ha	O
+gn:omohendáva	O
+gn:Franco	O
+gn:poder-pe	O
+gn:.	O
+
+gn:Alto	B-LOC
+gn:Feliz	I-LOC
+
+gn:Umi	O
+gn:oñembohysyimava’ekue	O
+gn:ndive	O
+gn:oĩve	O
+gn:hembiapokue	O
+gn:apytépe	O
+gn:“A	O
+gn:mi	O
+gn:pueblito	O
+gn:Escobar”	O
+gn:(	O
+gn:purahéi	O
+gn:neporãva	O
+gn:omoha’angáva	O
+gn:itáva	O
+gn:,	O
+gn:máramo	O
+gn:ojehai’ỹva	O
+gn:Paraguái	O
+gn:purahéi	O
+gn:apytépe	O
+gn:)	O
+gn:,	O
+gn:Sol	B-ORG
+gn:de	I-ORG
+gn:América”	I-ORG
+gn:(	O
+gn:Club	O
+gn:péicha	O
+gn:hérava	O
+gn:purahéi	O
+gn:)	O
+gn:,	O
+gn:“Lejana	O
+gn:flor”	O
+gn:(	O
+gn:ojapova’ekue	O
+gn:Eladio	O
+gn:Martínez	O
+gn:)	O
+gn:,	O
+gn:“Dulce	O
+gn:polquita”	O
+gn:,	O
+gn:“Nde	O
+gn:tapere”	O
+gn:,	O
+gn:“Noche	O
+gn:en	O
+gn:el	O
+gn:corazón”	O
+gn:ha	O
+gn:“Palomita	O
+gn:ven”	O
+gn:.	O
+
+gn:'	O
+gn:''	O
+gn:Ñumi	O
+gn:''	O
+gn:'	O
+gn:peteĩva	O
+gn:distrito	O
+gn:irundyha	O
+gn:tetãvore	O
+gn:Guaira	B-LOC
+gn:,	O
+gn:Paraguái	B-LOC
+gn:retãme	O
+gn:.	O
+
+gn:Kuãytasã	B-ORG
+
+gn:Francisco	B-PER
+gn:Solano	I-PER
+gn:López	I-PER
+gn:rehegua	O
+gn:ári	O
+gn:.	O
+
+gn:Oĩhína	O
+gn:tetãvore	O
+gn:Misiones-me	B-LOC
+gn:.	O
+
+gn:'	O
+gn:''	O
+gn:Oaxaca	O
+gn:de	O
+gn:Juárez	O
+gn:''	O
+gn:'	O
+gn:,	O
+gn:ha'e	O
+gn:peteĩ	O
+gn:táva	O
+gn:guasu	O
+gn:Méhiko	B-LOC
+gn:pegua	O
+gn:,	O
+gn:tetãvore	O
+gn:Oaxaca	B-LOC
+gn:itavusu	O
+gn:.	O
+
+gn:Táva	O
+gn:guasu	O
+gn::	O
+gn:Rio	B-LOC
+gn:Branco	I-LOC
+
+gn:'	O
+gn:''	O
+gn:Chipa	B-ORG
+gn:so'o	O
+gn:''	O
+gn:'	O
+gn:mbujapéichagua	O
+gn:aramirõgui	O
+gn:ijapopyre	O
+gn:ha	O
+gn:oñemboapytéva	O
+gn:so'o	O
+gn:ku’ípe	O
+gn:.	O
+
+gn:Inca-kuéra	B-ORG
+
+gn:**	O
+gn:Eudyptes	B-LOC
+gn:sclateri	I-LOC
+gn:''	O
+gn:,	O
+gn:yperana	O
+gn:akãyvoty	O
+gn:.	O
+
+gn:REDIRECCIÓN	O
+gn:Chekía	B-LOC
+
+gn:FIFA	B-ORG
+gn:Tembiesarái	I-ORG
+gn:Yvypavẽ	I-ORG
+gn:1982	I-ORG
+
+gn:'	O
+gn:''	O
+gn:Francisco	B-PER
+gn:Solano	I-PER
+gn:López	I-PER
+
+gn:Ko	O
+gn:táva	O
+gn:oñemohenda	O
+gn:yvyturusu	O
+gn:Altos-pe	B-LOC
+gn:.	O
+
+gn:Jekopytyjoja	B-ORG
+
+gn:Juan	B-PER
+gn:Natalicio	I-PER
+gn:González	I-PER
+gn:-	O
+gn:16	O
+gn:jasypakõi	O
+
+gn:Blas	B-PER
+gn:Marangatu	I-PER
+
+gn:Opyta	O
+gn:123	O
+gn:kilómetro	O
+gn:táva	O
+gn:Paraguaýgui	O
+gn:,	O
+gn:peteĩ	O
+gn:tape	O
+gn:hũ	O
+gn:tape	B-ORG
+gn:guasu	I-ORG
+gn:1	I-ORG
+gn:Mcal	O
+gn:.	O
+
+gn:Insensato	B-ORG
+gn:Coração	I-ORG
+gn:''	O
+
+gn:Ojapo	O
+gn:heta	O
+gn:Rede	B-ORG
+gn:Globo	I-ORG
+gn:hembiasagua'u	O
+gn:ha	O
+gn:ta'angamýi	O
+gn:porã	O
+gn:.	O
+
+gn:Ndéli	O
+gn:Pyahu	O
+gn:oguereko	O
+gn:mokõi	O
+gn:tenda	O
+gn:ha'éva	O
+gn:Tembiejakue	B-ORG
+gn:Yvypóra	I-ORG
+gn:reko	I-ORG
+gn:pegua	I-ORG
+gn::	O
+gn:upe	O
+gn:Humayun	O
+gn:ryvy	O
+gn:ha	O
+gn:''Qutb	O
+gn:''	O
+gn:.	O
+
+gn:Ou	O
+gn:jeývo	O
+gn:Buenos	B-LOC
+gn:Aires-pe	I-LOC
+gn:oipyhy	O
+gn:película	O
+gn:musicalización	O
+gn:hérava	O
+gn:``	O
+gn:El	O
+gn:trueno	O
+gn:entre	O
+gn:las	O
+gn:hojas	O
+gn:''	O
+gn:,	O
+gn:oisãmbyhýva	O
+gn:Armando	O
+gn:Bo	O
+gn:,	O
+gn:orekóva	O
+gn:guión	O
+gn:cinematográfico	O
+gn:ohaiva'ekue	O
+gn:Augusto	B-PER
+gn:Roa	I-PER
+gn:Bastos	I-PER
+gn:.	O
+
+gn:'	O
+gn:''	O
+gn:Quellón	O
+gn:''	O
+gn:'	O
+gn:táva	O
+gn:Chilepe	B-LOC
+gn:.	O
+
+gn:Jasy	B-PER
+gn:Jatere	I-PER
+gn::	O
+gn:Kóva	O
+gn:hina	O
+gn:Tau	O
+gn:ha	O
+gn:Kerana	O
+gn:memby	O
+gn:irundyha	O
+gn:.	O
+
+gn:Maneco	B-PER
+gn:Galeano	I-PER
+gn:-	O
+gn:5	O
+gn:jasypo	O
+
+gn:Oĩhína	O
+gn:tetãvore	O
+gn:Rio	B-LOC
+gn:Grande	I-LOC
+gn:do	I-LOC
+gn:Sul-pe	I-LOC
+gn:.	O
+
+gn:Upe	O
+gn:tape	B-ORG
+gn:guasu	I-ORG
+gn:1	I-ORG
+gn:Mariscal	O
+gn:Francisco	O
+gn:Solano	O
+gn:López	O
+gn:ha’e	O
+gn:tapehũ	O
+gn:ojeipuruvéva	O
+gn:.	O
+
+gn:Avei	O
+gn:oñemoarandu	O
+gn:grabado	O
+gn:maestro	O
+gn:Livio	B-PER
+gn:Abramo	I-PER
+gn:ndive	O
+gn:.	O
+
+gn:Irake	O
+gn:Poyvi]]	O
+gn:Irake	B-LOC
+
+gn:Para	B-LOC
+gn:Hapõ	I-LOC
+
+gn:Epifanio	B-PER
+gn:Méndez	I-PER
+gn:Fleitas	I-PER
+gn:-	O
+gn:22	O
+gn:jasypateĩ	O
+
+gn:Adolf	B-PER
+gn:Hitler	I-PER
+gn:-	O
+gn:30	O
+gn:jasyrundy	O
+
+gn:Mauricio	B-PER
+gn:José	I-PER
+gn:Troche	I-PER
+
+gn:Umi	O
+gn:mba’ére	O
+gn:iporã	O
+gn:jaju	O
+gn:jaguatami	O
+gn:ko	O
+gn:tenda	O
+gn:heta	O
+gn:tahachi	O
+gn:Paraguái	B-LOC
+gn:ome’ẽ	O
+gn:haguérupi	O
+gn:hugui	O
+gn:hetã	O
+gn:rayhupápe	O
+gn:.	O
+
+gn:Ricardo	B-PER
+gn:Migliorisi	I-PER
+gn:-	O
+gn:6	O
+gn:jasyteĩ	O
+
+gn:Hungyria	B-LOC
+
+gn:REDIRECCIÓN	O
+gn:Yvypóra	B-ORG
+gn:ñakãrapu'ã	I-ORG
+gn:hechaukaha	I-ORG
+
+gn:Ojapo	O
+gn:akue	O
+gn:heta	O
+gn:ava	O
+gn:tee	O
+gn:Rede	B-ORG
+gn:Globo	I-ORG
+gn:hembiasagua'upe	O
+gn:ha	O
+gn:heta	O
+gn:ojapo	O
+gn:avei	O
+gn:tembiasagua'u	O
+gn:''Xica	O
+gn:da	O
+gn:Silva	O
+gn:''	O
+gn:ava	O
+gn:tee	O
+gn:.	O
+
+gn:Arsenio	B-PER
+gn:Erico	I-PER
+gn:-	O
+gn:23	O
+gn:jasypokõi	O
+
+gn:José	B-PER
+gn:Asunción	I-PER
+gn:Flores	I-PER
+gn:-	O
+gn:27	O
+gn:jasypoapy	O
+
+gn:Fontao	O
+gn:Mezaomonéi	O
+gn:umi	O
+gn:pedido	O
+gn:,	O
+gn:he'ìvo	O
+gn:iñangirũ	O
+gn:Flores-pe	O
+gn:nome'ẽséi	O
+gn:tape	O
+gn:omoambue	O
+gn:haguã	O
+gn:,	O
+gn:ombotove	O
+gn:hikuái	O
+gn:ha	O
+gn:Manuel	B-PER
+gn:Ortiz	I-PER
+gn:Guerrero	I-PER
+gn:omohenda	O
+gn:ijehai	O
+gn:``	O
+gn:India	O
+gn:''	O
+gn:-pe	O
+gn:guarã	O
+gn:,	O
+gn:ñande	O
+gn:jaikuaáva	O
+gn:ko'ã	O
+gn:àrape	O
+gn:,	O
+gn:upérõ	O
+gn:ary	O
+gn:1944	O
+gn:ojedeklara	O
+gn:,	O
+gn:pet¨^i	O
+gn:léi	O
+gn:ohaíva	O
+gn:poder	O
+gn:Ejecutivo	O
+gn:,	O
+gn:ha'eháicha	O
+gn:``	O
+gn:Música	O
+gn:Oficial	O
+gn:Paraguaya	O
+gn:''	O
+gn:,	O
+gn:avei	O
+gn:purahéi	O
+gn:Campamento	O
+gn:Cerro	O
+gn:León	O
+gn:ha	O
+gn:Cerro	O
+gn:Corá	O
+gn:.	O
+
+gn:Andorra	O
+gn:viru	O
+gn:ha'e	O
+gn:Euro	B-ORG
+gn:.	O
+
+gn:FIFA	B-ORG
+gn:Tembiesarái	I-ORG
+gn:Yvypavẽ	I-ORG
+gn:1986	I-ORG
+
+gn:Viamão	B-LOC
+
+gn:Pilar	B-LOC
+
+gn:Chororo	B-LOC
+gn:Monday	I-LOC
+
